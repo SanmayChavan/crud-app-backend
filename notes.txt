@@ -1,3 +1,0 @@
-1. req- client send to server is req whatever res comes back from client is res
-2. in mongoose.connect // node-API is our collection name
-3. in index.js app.post . (req,res) for post we use    console.log( req.body) res.send(req.body)
