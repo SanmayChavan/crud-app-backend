@@ -7,7 +7,7 @@ A simple backend application implementing full CRUD operations using **Node.js**
 
 - ✅ Create, Read, Update, and Delete (CRUD) functionality
 - 💾 MongoDB with Mongoose
-- 
+  
 ---
 
 ## 📁 Project Structure
