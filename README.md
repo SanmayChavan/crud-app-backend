@@ -10,18 +10,7 @@ A simple backend application implementing full CRUD operations using **Node.js**
   
 ---
 
-## 📁 Project Structure
-CRUD-api/
-├── controllers/
-│ └── product.controller.js
-├── models/
-│ └── product.model.js
-├── routes
-| └── product.route.js
-├── .gitignore
-├── index.js
-└──package.json
-└──package-lock.json
+<pre><code> ``` CRUD-api/ ├── controllers/ │ └── product.controller.js ├── models/ │ └── product.model.js ├── routes/ │ └── product.route.js ├── .gitignore ├── index.js ├── package.json └── package-lock.json ``` </code></pre>
 
 ## ⚙️ Tech Stack
 
